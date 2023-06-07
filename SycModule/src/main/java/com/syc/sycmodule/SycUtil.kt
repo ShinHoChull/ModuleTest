@@ -13,7 +13,7 @@ class SycUtil {
 
         fun call(count: Int) {
             Log.d("sycUtil","##################START#################")
-            Log.d("sycUtil","##############$count#############")
+            Log.d("sycUtil","##############$count################")
             Log.d("sycUtil","###################END##################")
         }
 
